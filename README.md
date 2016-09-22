@@ -4,8 +4,8 @@ React-router+Webpack 开发前端项目,快速构建项目及包管理
 #可以直接访问dist目录下的页面
 
 #将项目clone到本地
-.npm install         //将用到的依赖包下载下来
-.npm run build       //运行即可在dist文件可以访问对应的页面查看效果
+      npm install         //将用到的依赖包下载下来
+      npm run build       //运行即可在dist文件可以访问对应的页面查看效果
 
 #目录结构说明：
 dist //是编译好的文件发布时可以直接将dist里面的文件放到服务器
