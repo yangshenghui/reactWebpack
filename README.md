@@ -25,8 +25,8 @@
      * webpack+React参考文档：https://fakefish.github.io/react-webpack-cookbook/
 
 ##安装webpack
-项目中：             npm install webpack --save-dev       //--save-dev 说明安装到package.json配置中devDependencies{}本地
-全局中：              npm install webpack -g
+* 项目中：    npm install webpack --save-dev       //--save-dev 说明安装到package.json配置中devDependencies{}本地
+* 全局中：    npm install webpack -g
 ##安装react
       npm install react --save-dev
       npm install react-router --save-dev
