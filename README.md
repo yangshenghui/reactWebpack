@@ -12,7 +12,7 @@
 * src             //是项目的源码
 * .babelrc        //是配置语法转换 详情请参考官方文档 http://babeldev.dan.cx/docs/usage/babelrc/
 * .gitignore             //可以将不必要的文件忽略不提交
-* package.json           //包含各种npm安装所需的模块以及项目的配置信息
+* package.json           //包含各种npm安装所需的模块以及项目的配置信息，在项目根目录下  npm init 会生成package.json
 
 ##环境说明：
 * 安装node.js  官网地址：https://nodejs.org/en/
