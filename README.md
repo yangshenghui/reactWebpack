@@ -1,7 +1,7 @@
 # react-router-webpack
 * React-router+Webpack 开发前端项目,快速构建项目及包管理
 
-#可以直接访问dist目录下的页面
+##可以直接访问dist目录下的页面
 
 #将项目clone到本地
       npm install         //将用到的依赖包下载下来
@@ -16,7 +16,7 @@
 
 #环境说明：
 * 安装node.js  官网地址：https://nodejs.org/en/
-* 　 cmd命令查看版本是否安装成功#：node -v
+* cmd命令查看版本是否安装成功#：node -v
 
 #需要掌握的技术：
 * 具备es6的编写思想，可以参考阮一峰老师出的文档 http://es6.ruanyifeng.com/#docs/intro
