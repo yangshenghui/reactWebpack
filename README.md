@@ -8,11 +8,11 @@ React-router+Webpack 开发前端项目,快速构建项目及包管理
       npm run build       //运行即可在dist文件可以访问对应的页面查看效果
 
 #目录结构说明：
-dist //是编译好的文件发布时可以直接将dist里面的文件放到服务器
-src  //是项目的源码
-.babelrc//是配置语法转换 详情请参考官方文档 http://babeldev.dan.cx/docs/usage/babelrc/
-.gitignore //可以将不必要的文件忽略不提交
-package.json //包含各种npm安装所需的模块以及项目的配置信息
+* dist //是编译好的文件发布时可以直接将dist里面的文件放到服务器
+* src  //是项目的源码
+* .babelrc//是配置语法转换 详情请参考官方文档 http://babeldev.dan.cx/docs/usage/babelrc/
+* .gitignore //可以将不必要的文件忽略不提交
+* package.json //包含各种npm安装所需的模块以及项目的配置信息
 
 #环境说明：
 安装node.js  官网地址：https://nodejs.org/en/
