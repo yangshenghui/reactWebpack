@@ -5,7 +5,9 @@ import React  from 'react';
 class TestOne extends React.Component{
     render(){
         return(
-            <div>单页入口页面test1......</div>
+            <div>单页入口页面test1......
+            <a>点击我</a>
+            </div>
         )
     }
 }
