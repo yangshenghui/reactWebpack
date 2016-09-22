@@ -1,5 +1,5 @@
 ## react-router-webpack
-* react router webpack 前端项目开法和构建，包含按需加载页面、webpack多个入口配置、多个html打包压缩等
+* react router webpack 前端项目开发和构建，包含按需加载页面、webpack多个入口配置、多个html打包压缩等
 
 ###可以直接访问dist目录下的页面
 
